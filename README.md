@@ -1,9 +1,16 @@
 # Session manager for PHP
 Handle sessions in your application with this PHP library.
 
+This is a open-source library. Please consider a link to this repository when you're actively using it.
+
 [![License](https://camo.githubusercontent.com/cf76db379873b010c163f9cf1b5de4f5730b5a67/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f6d69742f6d69742e7376673f763d313032)](https://github.com/internetpixels/session-manager)
 [![Build Status](https://travis-ci.org/internetpixels/session-manager.svg?branch=master)](https://travis-ci.org/internetpixels/session-manager)
 [![Maintainability](https://api.codeclimate.com/v1/badges/43c7b17d539b383d68a1/maintainability)](https://codeclimate.com/github/internetpixels/session-manager/maintainability)
+
+## Installation
+Install this PHP session manager by using composer:
+
+	composer require internetpixels/session-handler
 
 ## Basic examples
 
